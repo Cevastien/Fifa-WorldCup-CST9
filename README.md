@@ -1,10 +1,3 @@
-# FIFA World Cup 2026 Predictor - CST9 Group Project
-
-## Team Members
-- **Gella**
-- **Oclarit**  
-- **Planas**
-- **Pulido**
 
 ## Project Overview
 
